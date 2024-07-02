@@ -15,7 +15,7 @@ This project, guided by Dr. Behrooz Noori, analyzes the percentage of customers 
 ## Getting Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/percentage-of-customers-who-consider.git
+   git clone [https://github.com/yourusername/percentage-of-customers-who-consider.git](https://github.com/sadraehdi/Percentage-of-Customers-Who-Consider)
    ```
 2. **Install dependencies**:
    ```bash
